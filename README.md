@@ -6,9 +6,11 @@ Real Time Face recognition using Python and OpenCV
 
 
 ` $ python create_dataset.py `
+
 ` $ python train_model.py `
+
 ` $ python face_recognition.py `
-```
+
 ## Recognizers(Defined in OpenCV)
 
 - EigenFaces
