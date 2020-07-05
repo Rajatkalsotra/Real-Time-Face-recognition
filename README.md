@@ -1,4 +1,17 @@
-# Face-recognition
-Face recognition using python and opencv
+# Real Time Face-recognition
 
-![Comparison](./Comparisons-of-Eigenface-Fisherface-and-LBPH.png?raw=true "Title")
+Real Time Face recognition using python and opencv
+
+![Comparison](.utils/Comparisons.png?raw=true "Title")
+
+## Usage
+
+```
+$ python create_dataset.py
+$ python train_model.py
+$ python face_recognition.py
+```
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
